@@ -38,10 +38,10 @@ This is the link to the docker course. Click [**HERE**](https://www.youtube.com/
 
   - Config the Dockerfile with the following commands:
   >
-  > FROM node:20
-  > WORKDIR /app
-  >
-  > COPY package.json .
+  > FROM node:20 </br>
+  > WORKDIR /app </br>
+  > </br>
+  > COPY package.json .</br>
   > RUN npm install
   > COPY . .
   > 
@@ -49,4 +49,4 @@ This is the link to the docker course. Click [**HERE**](https://www.youtube.com/
   > CMD ["node","./src/server.js"]
   >
 
-  
+
