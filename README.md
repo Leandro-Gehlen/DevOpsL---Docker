@@ -1,4 +1,4 @@
-# Learning Docker - Docker Course  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+# **Learning Docker - Docker Course**  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a>
 ![](https://img.shields.io/github/license/leandro-gehlen/BL-clean-architecture-node-api)  
 
 ## Credits 
