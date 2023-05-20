@@ -42,11 +42,11 @@ This is the link to the docker course. Click [**HERE**](https://www.youtube.com/
   > WORKDIR /app </br>
   > </br>
   > COPY package.json .</br>
-  > RUN npm install
-  > COPY . .
-  > 
-  > EXPOSE 3000
-  > CMD ["node","./src/server.js"]
-  >
+  > RUN npm install </br>
+  > COPY . . </br>
+  > </br>
+  > EXPOSE 3000</br>
+  > CMD ["node","./src/server.js"]</br>
+  ></br>
 
 
