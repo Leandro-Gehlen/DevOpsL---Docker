@@ -3,6 +3,8 @@
 
 ## Credits 
 
+![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
 This course was developed by [**Sanjeev Thiyagarajan**](https://www.youtube.com/channel/UC2sYgV-NV6S5_-pqLGChoNQ).
 
 Thank you to [**FreeCodeCamp.org**](https://www.freecodecamp.org/). You´ve been doing and amazing job and are a huge learning source for all devs worldwide. Thank you!
