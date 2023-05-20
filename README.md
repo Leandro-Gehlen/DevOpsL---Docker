@@ -36,5 +36,17 @@ This is the link to the docker course. Click [**HERE**](https://www.youtube.com/
 
   - To create a custom image we need to create a Dockerfile
 
-  -
+  - Config the Dockerfile with the following commands:
+  >
+  > FROM node:20
+  > WORKDIR /app
+  >
+  > COPY package.json .
+  > RUN npm install
+  > COPY . .
+  > 
+  > EXPOSE 3000
+  > CMD ["node","./src/server.js"]
+  >
 
+  
